@@ -75,9 +75,9 @@ const SignInPage = () => {
   <CustomButton
             title="Sign In"
             handlePress={submit}
-            containerStyles="mt-7"
+            containerStyles=""
             isLoading={isSubmitting}
-            textStyles="text-black font-bold "
+            textStyles=""
           />
           
 
